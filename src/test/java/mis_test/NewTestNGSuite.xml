@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="com.institutoweb_mavenproject3_jar_1.0-SNAPSHOT">
+    <test name="My test de consorcios">
+        <classes>   
+            <class name="mis_test.Test_Domicilio"/> 
+            <class name="mis_test.Test_Domicilio1"/>         
+       </classes> 
+    </test>
+</suite>
